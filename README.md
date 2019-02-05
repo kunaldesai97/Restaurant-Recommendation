@@ -39,11 +39,11 @@ More information can be found on the [UCI Machine Learning Repository](https://a
 Number of Files: 9<br />
 
 Restaurants<br />
-1.chefmozaccepts.csv
-2.chefmozcuisine.csv
-3.chefmozhours4.csv
-4.chefmozparking.csv
-5.geoplaces2.csv
+1. chefmozaccepts.csv
+2. chefmozcuisine.csv
+3. chefmozhours4.csv
+4. chefmozparking.csv
+5. geoplaces2.csv
 
 Consumers<br />
 1.usercuisine.csv
