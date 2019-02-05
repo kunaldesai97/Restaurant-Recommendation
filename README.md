@@ -46,12 +46,12 @@ Restaurants<br />
 5. geoplaces2.csv
 
 Consumers<br />
-1.usercuisine.csv
-2.userpayment.csv
-3.userprofile.csv
+1. usercuisine.csv
+2. userpayment.csv
+3. userprofile.csv
 
 User-Item-Rating<br />
-1.rating_final.csv
+1. rating_final.csv
 
 **Description format of datasets required for collaborative filtering**<br />
 File name<br />
